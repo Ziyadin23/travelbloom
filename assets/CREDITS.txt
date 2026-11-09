@@ -1,0 +1,53 @@
+TravelBloom — Photo credits and licenses
+
+All six images are genuine photographs obtained from Wikimedia Commons.
+Each image is distributed under its listed Creative Commons license.
+No photographer endorses this project. Resized images retain their original license.
+
+bora-bora.jpg — Matira Beach, Bora Bora, French Polynesia.jpg
+Photo by Scott Williams
+Author: Scott Williams (Sba2)
+Source: https://commons.wikimedia.org/wiki/File:Matira_Beach,_Bora_Bora,_French_Polynesia.jpg
+Original image: https://upload.wikimedia.org/wikipedia/commons/0/07/Matira_Beach%2C_Bora_Bora%2C_French_Polynesia.jpg
+License: CC BY 2.5 — https://creativecommons.org/licenses/by/2.5/
+Changes: Resized from 2585×1561 to 1280×773 pixels; JPEG recompressed at quality 85; no crop or content edits.
+
+copacabana.jpg — Copacabana beach.jpg
+Photo by Luca Gebara
+Author: Luca Gebara
+Source: https://commons.wikimedia.org/wiki/File:Copacabana_beach.jpg
+Original image: https://upload.wikimedia.org/wikipedia/commons/3/37/Copacabana_beach.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized from 2000×1333 to 1280×853 pixels; JPEG recompressed at quality 85; no crop or content edits.
+
+angkor-wat.jpg — Angkor Wat reflection.jpg
+Photo by David Wilmot
+Author: David Wilmot
+Source: https://commons.wikimedia.org/wiki/File:Angkor_Wat_reflection.jpg
+Original image: https://upload.wikimedia.org/wikipedia/commons/8/88/Angkor_Wat_reflection.jpg
+License: CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/
+Changes: Resized from 2272×1704 to 1280×960 pixels; JPEG recompressed at quality 85; no crop or content edits.
+
+kinkaku-ji.jpg — Kinkakuji temple.jpg
+Photo by Helito
+Author: Helito
+Source: https://commons.wikimedia.org/wiki/File:Kinkakuji_temple.jpg
+Original image: https://upload.wikimedia.org/wikipedia/commons/8/80/Kinkakuji_temple.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Changes: Resized from 3264×2448 to 1280×960 pixels; JPEG recompressed at quality 85; no crop or content edits.
+
+japan.jpg — Chureito Pagoda and Mount Fuji.jpg
+Photo by Manishprabhune
+Author: Manishprabhune
+Source: https://commons.wikimedia.org/wiki/File:Chureito_Pagoda_and_Mount_Fuji.jpg
+Original image: https://upload.wikimedia.org/wikipedia/commons/9/9e/Chureito_Pagoda_and_Mount_Fuji.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Changes: None. Original JPEG bytes retained.
+
+australia.jpg — Sydney Opera House - Dec 2008.jpg
+Photo by DAVID ILIFF. License: https://creativecommons.org/licenses/by-sa/3.0/
+Author: DAVID ILIFF (Diliff)
+Source: https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_-_Dec_2008.jpg
+Original image: https://upload.wikimedia.org/wikipedia/commons/7/7c/Sydney_Opera_House_-_Dec_2008.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized from 2544×1406 to 1280×707 pixels; JPEG recompressed at quality 85; no crop or content edits.

@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore beach, temple and country recommendations with TravelBloom, a JavaScript learning project.">
+  <title>TravelBloom — Travel recommendations</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="travel_recommendation.js" defer></script>
+</head>
+<body class="home-page">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <span class="brand">TravelBloom</span>
+    <nav aria-label="Main navigation">
+      <div class="nav-links">
+        <a href="travel_recommendation.html" aria-current="page">Home</a>
+        <a href="about_us.html">About Us</a>
+        <a href="contact_us.html">Contact Us</a>
+      </div>
+      <form id="search-form" class="search-form" role="search">
+        <label class="visually-hidden" for="search-input">Search for a beach, temple or country</label>
+        <input id="search-input" type="search" name="keyword" placeholder="Beach, temple, or country" autocomplete="off" aria-describedby="search-help">
+        <button type="submit">Search</button>
+        <button id="clear-button" class="button-clear" type="button">Clear</button>
+      </form>
+    </nav>
+  </header>
+
+  <main id="main" class="home-main">
+    <section class="intro" aria-labelledby="page-title">
+      <h1 id="page-title">Your next trip <br>starts here.</h1>
+      <div class="intro-copy">
+        <p>From a quiet shoreline to a remarkable temple, find a place that makes you curious. TravelBloom brings a few thoughtful destination ideas into one simple search.</p>
+        <p id="search-help">Explore beaches, temples, or countries using the search above.</p>
+        <a class="button" href="contact_us.html">Book Now</a>
+      </div>
+    </section>
+
+    <section id="recommendations" class="recommendations" aria-labelledby="results-heading" hidden>
+      <div class="results-heading-row">
+        <h2 id="results-heading">Recommendations</h2>
+        <p id="search-status" role="status" aria-live="polite" aria-atomic="true"></p>
+      </div>
+      <div id="results-grid" class="results-grid"></div>
+    </section>
+    <noscript><p class="notice">Enable JavaScript to search the destination recommendations.</p></noscript>
+  </main>
+
+  <footer class="site-footer">
+    <p>TravelBloom · A JavaScript course project.</p>
+    <a href="assets/CREDITS.txt">Photo credits &amp; licenses</a>
+  </footer>
+</body>
+</html>

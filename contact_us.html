@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Try TravelBloom’s demo email contact form. This course project does not send or store messages.">
+  <title>Contact Us — TravelBloom</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="travel_recommendation.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <span class="brand">TravelBloom</span>
+    <nav aria-label="Main navigation">
+      <div class="nav-links">
+        <a href="travel_recommendation.html">Home</a>
+        <a href="about_us.html">About Us</a>
+        <a href="contact_us.html" aria-current="page">Contact Us</a>
+      </div>
+    </nav>
+  </header>
+
+  <main id="main" class="page-main contact-main">
+    <section class="contact-intro" aria-labelledby="page-title">
+      <h1 id="page-title">Contact Us</h1>
+      <p>Have a destination in mind? Use this form to prepare an email draft about your travel interests.</p>
+      <p><a href="mailto:hello@travelbloom.example">hello@travelbloom.example</a></p>
+      <p id="demo-contact-note" class="demo-note">This is a course demo. The reserved example address cannot receive email. Submit opens your email app with a draft; this website does not send or store your message. Use sample details only.</p>
+    </section>
+
+    <form id="contact-form" class="contact-form" action="mailto:hello@travelbloom.example" method="post" enctype="text/plain" aria-describedby="demo-contact-note">
+      <label for="contact-name">Name</label>
+      <input id="contact-name" name="name" type="text" required maxlength="80" autocomplete="off" placeholder="Your name">
+      <label for="contact-email">Email</label>
+      <input id="contact-email" name="email" type="email" required maxlength="254" autocomplete="off" placeholder="you@example.com">
+      <label for="contact-message">Message</label>
+      <textarea id="contact-message" name="message" rows="5" required maxlength="2000" placeholder="What would you like to explore?"></textarea>
+      <button type="submit">Submit</button>
+      <p id="contact-status" role="status" aria-live="polite" aria-atomic="true"></p>
+    </form>
+  </main>
+
+  <footer class="site-footer">
+    <p>TravelBloom · A JavaScript course project.</p>
+    <a href="assets/CREDITS.txt">Photo credits &amp; licenses</a>
+  </footer>
+</body>
+</html>

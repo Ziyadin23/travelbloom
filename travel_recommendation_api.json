@@ -1,0 +1,44 @@
+{
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Matira Beach, Bora Bora",
+      "imageUrl": "assets/bora-bora.jpg",
+      "description": "A sandy shoreline beside Bora Bora’s lagoon in French Polynesia, with island views and shallow blue water."
+    },
+    {
+      "id": 2,
+      "name": "Copacabana Beach, Brazil",
+      "imageUrl": "assets/copacabana.jpg",
+      "description": "Rio de Janeiro’s Atlantic beachfront, with a broad arc of sand and an urban coastline."
+    }
+  ],
+  "temples": [
+    {
+      "id": 3,
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "assets/angkor-wat.jpg",
+      "description": "The landmark temple towers of Angkor Wat reflected in a pond near Siem Reap, Cambodia."
+    },
+    {
+      "id": 4,
+      "name": "Kinkaku-ji, Japan",
+      "imageUrl": "assets/kinkaku-ji.jpg",
+      "description": "Discover the Golden Pavilion and waterside gardens at Kinkaku-ji temple in Kyoto, Japan."
+    }
+  ],
+  "countries": [
+    {
+      "id": 5,
+      "name": "Japan",
+      "imageUrl": "assets/japan.jpg",
+      "description": "Explore Japan through Fujiyoshida’s Chureito Pagoda, cherry blossoms and views of Mount Fuji."
+    },
+    {
+      "id": 6,
+      "name": "Australia",
+      "imageUrl": "assets/australia.jpg",
+      "description": "Visit Australia’s Sydney Harbour, where the Opera House stands beside the water."
+    }
+  ]
+}
